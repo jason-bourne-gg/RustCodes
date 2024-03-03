@@ -1,8 +1,8 @@
-## RustCodes
+# RustCodes
 
 In this repository, I will be learning Rust programming language and writing various code examples to understand its basic functionalities and data types. Rust is a modern systems programming language known for its performance, memory safety, and concurrency features. Through these code examples, I aim to explore Rust's syntax, concepts, and best practices.
 
-# Objective
+## Objective
 
 To gain a solid understanding of Rust programming language.
 To explore and experiment with Rust's features, such as ownership, borrowing, lifetimes, and concurrency.
@@ -19,11 +19,11 @@ The repository will include code examples covering various aspects of Rust progr
 - File I/O and networking
 - Testing and documentation
 
-# Structure
+## Structure
 
 The repository will be organized into different directories, each focusing on specific topics or concepts. Within each directory, there will be individual Rust source code files containing code examples related to that topic. Additionally, there will be README files providing explanations, insights, and instructions for running the code examples.
 
-# Technologies Used
+## Technologies Used
 
 Rust Programming Language
 Cargo (Rust's package manager and build system)
